@@ -1,0 +1,13 @@
+{
+    "person": [
+        {
+            "firstName": "krishna",
+            "lastName": "kulkarni",
+            "city": "kalburgi",
+            "state": "karnataka",
+            "zipcode": "585103",
+            "phoneNumber": "8970708900",
+            "address": "h.no"
+        }
+    ]
+}
